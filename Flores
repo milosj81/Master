@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Un regalo especial para ti</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe6f2;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff66b2;
+        }
+        .flower {
+            font-size: 100px;
+        }
+        .message {
+            font-style: italic;
+            color: #666;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Para mi amor</h1>
+    <div class="flower">🌹</div>
+    <p class="message">Cada pétalo de esta rosa representa un momento especial contigo.</p>
+    <p>Te amo más que a todas las flores del mundo.</p>
+</body>
+</html>
